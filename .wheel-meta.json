@@ -1,0 +1,22 @@
+{
+  "wheel_id": 703,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-com-102",
+  "project": "bathroom-tiling-adelaide-beginner-guide-ab74d38a428e77f1242a2b6",
+  "parent_t1_ref": "adelaidetilingwaterproofing-com-150",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide beginner guide",
+  "intended_url": "http://bathroom-tiling-adelaide-beginner-guide-ab74d38a428e77f1242a2b6.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "225bd2f14644b282",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/bathroom-tiling-adelaide-4dd3a242384bf52f023c1113699c97bc0874e7/",
+      "anchor": "https://aumedia.neocities.org/bathroom-tiling-adelaide-4dd3a242384bf52f023c1113699c97bc0874e7/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
